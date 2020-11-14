@@ -6,9 +6,6 @@ using System.Threading.Tasks;
 
 namespace ToDoApp.Models
 {
-    /// <summary>
-    /// An to do task model.
-    /// </summary>
     public class ToDoTask
     {
         public int Index { set; get; }

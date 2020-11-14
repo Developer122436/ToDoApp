@@ -19,7 +19,7 @@ using ToDoApp.ViewModels;
 namespace ToDoApp.Views.ContentDialogs
 {
     /// <summary>
-    /// An frame where can add a new task.
+    /// An frame where can user add a new task.
     /// </summary>
     public sealed partial class AddToDoTaskDialog : ContentDialog
     {

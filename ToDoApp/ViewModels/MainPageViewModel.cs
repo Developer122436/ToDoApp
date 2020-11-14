@@ -9,9 +9,6 @@ using ToDoApp.Models;
 
 namespace ToDoApp.ViewModels
 {
-    /// <summary>
-    /// An main page view model.
-    /// </summary>
     public class MainPageViewModel : INotifyPropertyChanged
     {
         ObservableCollection<ToDoTask> _toDoTasks;
